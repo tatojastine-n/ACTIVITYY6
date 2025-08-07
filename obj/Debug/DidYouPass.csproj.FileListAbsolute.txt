@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DidYouPass\obj\Debug\DidYouPass.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DidYouPass\obj\Debug\DidYouPass.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DidYouPass\bin\Debug\DidYouPass.exe.config
+C:\Users\HP\source\repos\DidYouPass\bin\Debug\DidYouPass.exe
+C:\Users\HP\source\repos\DidYouPass\bin\Debug\DidYouPass.pdb
+C:\Users\HP\source\repos\DidYouPass\obj\Debug\DidYouPass.exe
+C:\Users\HP\source\repos\DidYouPass\obj\Debug\DidYouPass.pdb
